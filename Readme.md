@@ -1,3 +1,5 @@
+> :warning: **This repository is archived**: It's contents have been moved to a new [monorepo](https://github.com/o-development/ldo/).
+
 # LDO Monorepo
 
 This is a monorepo that contains all libraries associated with Linked Data Objects (LDO).
